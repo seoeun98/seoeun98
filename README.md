@@ -1,6 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=PARK%20SEO%20EUN&desc=BACKEND%20ENGINEER&fontSize=80&descSize=40&descAlignY=70)
 
 <br/>
 <br/>
