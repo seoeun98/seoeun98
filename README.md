@@ -7,8 +7,6 @@
 <img alt="git" src ="https://img.shields.io/badge/Git-yellowgreen.svg?&style=for-the-badge&logo=Git&logoColor=white"> <img alt="jira" src ="https://img.shields.io/badge/jira-inactive.svg?&style=for-the-badge&logo=jira&logoColor=white">
  <br/>
   <br/>
-<br/>  
-<br/>
 
 ## ✒Problem Solved
 [![Solved.ac
