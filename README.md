@@ -1,3 +1,6 @@
+## 👋Introduction
+안녕하세요. 백엔드 개발자가 되기 위해 공부하는 주니어 개발자입니다!
+
 <div align=center>
 
 <br/>
