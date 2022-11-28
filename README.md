@@ -3,6 +3,7 @@
 
 ## 👋Introduction
 안녕하세요. 백엔드 개발자가 되기 위해 공부하는 주니어 개발자입니다!
+자바와 스프링부트, mysql을 주로 사용합니다
 
 <br/>
 <br/>
@@ -20,8 +21,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vcv0174)](https://solved.ac/vcv0174) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoeun98&layout=compact)](https://github.com/seoeun98/github-readme-stats)
 
-
-
-
-  
 </div>
