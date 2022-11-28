@@ -7,6 +7,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
   
 ## 🖥️️Teck Stacks
 <img alt="Java" src ="https://img.shields.io/badge/Java-important.svg?&style=for-the-badge&logo=Java&logoColor=white"> &nbsp; <img alt="Python" src ="https://img.shields.io/badge/Python-black.svg?&style=for-the-badge&logo=python&logoColor=white"> &nbsp; <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"> &nbsp; <img alt="Spring-Boot" src ="https://img.shields.io/badge/Spring_Boot-blue.svg?&style=for-the-badge&logo=Spring-Boot&logoColor=white"> &nbsp; <img alt="FastAPI" src ="https://img.shields.io/badge/FastApi-blueviolet.svg?&style=for-the-badge&logo=FastApi&logoColor=white"> &nbsp; <img alt="MySql" src ="https://img.shields.io/badge/MySql-yellow.svg?&style=for-the-badge&logo=MySql&logoColor=white"> &nbsp; <img alt="EC2" src ="https://img.shields.io/badge/AWS EC2-gray.svg?&style=for-the-badge&logo=Amazon EC2&logoColor=white"> <br />
