@@ -11,7 +11,7 @@
 <br/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={vcv0174})](https://solved.ac/{vcv0174})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vcv0174)](https://solved.ac/vcv0174)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoeun98&layout=compact)](https://github.com/seoeun98/github-readme-stats)
 
 
