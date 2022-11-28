@@ -7,12 +7,13 @@
 <img alt="git" src ="https://img.shields.io/badge/Git-yellowgreen.svg?&style=for-the-badge&logo=Git&logoColor=white"> <img alt="jira" src ="https://img.shields.io/badge/jira-inactive.svg?&style=for-the-badge&logo=jira&logoColor=white">
  <br/>
   <br/>
-
+  <br/>
 ## ✒Problem Solved
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vcv0174)](https://solved.ac/vcv0174)
 <br/>  
 <br/>
+  <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoeun98&layout=compact)](https://github.com/seoeun98/github-readme-stats)
 
 
