@@ -8,7 +8,7 @@
 <img alt="Java" src ="https://img.shields.io/badge/Java-important.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="MySql" src ="https://img.shields.io/badge/MySql-yellow.svg?&style=for-the-badge&logo=MySql&logoColor=white"/>
 <img alt="FastAPI" src ="https://img.shields.io/badge/FastApi-blueviolet.svg?&style=for-the-badge&logo=FastApi&logoColor=white"/>
-<img alt="AWS" src ="https://img.shields.io/badge/Amazon EC2-blueviolet.svg?&style=for-the-badge&logo=FastApi&logoColor=white"/>
+<img alt="AWS" src ="https://img.shields.io/badge/AWS EC2-blueviolet.svg?&style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
  <br/>
   <br/>
 <br/>  
