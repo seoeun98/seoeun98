@@ -22,7 +22,6 @@
 <br/>  
 <br/>
 <br/>  
-<br/>
 ## 🔠Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoeun98&layout=compact)](https://github.com/seoeun98/github-readme-stats)
 
