@@ -3,7 +3,7 @@
 
 ## 👋Introduction
 안녕하세요. 백엔드 개발자가 되기 위해 공부하는 주니어 개발자입니다! <br />
-자바와 스프링부트, mysql을 주로 사용합니다
+Java와 SpringBoot, MySQL을 주로 사용합니다
 <br/>
 <br/>
 <br/>
